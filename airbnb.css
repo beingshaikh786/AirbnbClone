@@ -76,6 +76,10 @@
     color: gray;
     
 }
+.category>h4
+{
+    transition-duration: .3s;
+}
 .category>h4:hover
 {
     margin: 0px;
