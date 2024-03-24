@@ -164,6 +164,14 @@
     gap: 10px;
     align-items: center;
 }
+.inp:focus
+{
+    border: none;
+    outline:rgb(190, 60, 60) 3px solid ;
+
+
+}
+
 .inp
 {
     width: 300px;
